@@ -17,5 +17,5 @@
 # Flatten file
 > node flattener --flatten=filename
 
-# Node
+# Oracle
 > Added coin-geecko.js which works as oracle we can run it every 8 hour so token and stable coin prices remain up-to-date, to run node coin-geecko.js
